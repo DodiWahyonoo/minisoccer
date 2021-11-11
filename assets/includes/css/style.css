@@ -1,0 +1,215 @@
+/* CSS Document */
+img.floatLeft { 
+    float: left; 
+    margin: 4px; 
+}
+img.floatRight { 
+    float: right; 
+    margin: 4px; 
+}
+p.submain{
+	padding-top:10px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:10px
+}
+.adv {
+	text-align:center;
+	vertical-align:top;
+}
+.bgleft{
+	background-image: url(../images/content/bgleft.jpg);
+}
+
+.bgright{
+	background-image: url(../images/content/bgright.png);
+}
+body ,td{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	scrollbar-base-color: #CCCCCC; /*  WARNA 1*/
+	scrollbar-face-color: #CCCCCC; /*  WARNA 2*/
+	scrollbar-track-color: #FFffff; 
+	scrollbar-arrow-color: #ffffff;
+	scrollbar-highlight-color: #FFFFFF; 
+	scrollbar-3dlight-color: #CCCCCC; /*  WARNA 3*/
+	scrollbar-shadow-color: #CCCCCC; /*  WARNA 4*/
+	scrollbar-darkshadow-color: #FFFFFF;
+}
+
+.form{
+	BORDER-RIGHT: #000066 1px solid; 
+	BORDER-LEFT: #000066 1px solid; 
+	BORDER-TOP: #000066 1px solid;
+	BORDER-BOTTOM: #000066 1px solid;  
+	FONT-SIZE:12px; 
+	COLOR:#000066; 
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+	BACKGROUND-COLOR: #EFEFEF;
+	margin-top:10px;
+}
+
+.footer{
+	background-color:#000066;
+	font-size:10px;
+	font-family: Helvetica, sans-serif;
+	background-image: url(../images/content/fthimapi.jpg);
+	vertical-align:top;
+	text-align:center;
+	
+}
+
+.garis_lurus{
+	background-image: url(../images/content/garis.jpg);
+}
+.menu{
+	background-image: url(../../images/web/bgmenu.jpg);
+}
+
+.menu_bgcontentmenu{
+	background-image: url(../../images/web/bgcontentmenu.jpg);
+}
+
+
+.link_global {
+	color: #000000;
+	text-decoration: none;
+}
+.link_global:hover {
+	text-decoration:none;
+	color: #1C79C9;
+}
+
+.menu_link {
+	padding-left:2px; 
+	font-family: Calibri;
+	FONT-SIZE:12px; 
+	text-decoration: none;
+}
+.menu_link:hover {
+	text-decoration:none;
+	color: #FF0000;
+}
+
+.menu_title{
+
+	font-size:12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+	vertical-align:middle;
+	text-align:left;
+	font-style:bold;
+	padding-left:10px; 
+	padding-right:10px;
+}
+.text_welcome{
+	font-size: 13px;
+	color: #CCCCCC;
+	text-decoration: none;
+
+}
+
+.linknews:hover {
+	text-decoration:none;
+	color: #1C79C9;
+	font-size: 13px;
+}
+
+.main{
+	font-size:12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#000066;
+	text-align:left;
+	padding-left:10px; 
+	padding-right:0px;
+	padding-top:0px;
+	padding-bottom:0px;
+}
+
+.menu_title_panah{
+	background-image: url(../images/content/panah.png);
+}
+
+.tanggal{
+	font-family: arial, sans-serif;
+	font-size: 12px;
+	background-image: url(../images/content/bg_menu.jpg);
+	color: #000066;
+	text-align:center;
+}
+
+
+
+.text_kecil{
+	font-size:9px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#333333;
+	text-decoration: none;	
+}
+.text_kecil:hover {
+	text-decoration:underline;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color: #FF6600;
+	font-size: 9px;
+}
+
+.title{
+	font-size:12px;
+	font-family: Helvetica, sans-serif;
+	color:#000066;
+	vertical-align:middle;
+	padding-left:10px;
+	text-align:left;
+	font-style:bold;
+}
+
+.paddingmain{
+	padding-left:10px;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-right:5px;
+}
+
+.tblcontent{
+	color:#FFFFFF;
+	font-size:12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	background-image: url(../../images/web/bg_menu.jpg);
+	vertical-align:middle;
+	text-align:center;
+	text-shadow:#FFFFFF;
+}
+
+.tbground{
+	color:#000000;
+	font-size:12px;
+	font-style:bold;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	background-image: url(../../images/content/tbg.jpg);
+	vertical-align:middle;
+	text-align:center;
+	text-shadow:#FFFFFF;
+}
+
+.linkmenu{
+	font-size: 11px;
+	color: #FFFFFF;	
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+.linkmenu:hover {
+	font-size: 11px;
+	color: #DC2215;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-style:bold;
+	text-decoration:none;
+}
+
+.btn{
+	font-size:14px;
+	background-color:#28156F;
+	color:#FFFFFF;
+}
